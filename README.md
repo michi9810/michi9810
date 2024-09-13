@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## my skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,ts,nextjs,tailwind,bun,vitest,git,docker,ubuntu,linux,grafana" />
+  </a>
+</p>
+
 <!--
 **michi9810/michi9810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
